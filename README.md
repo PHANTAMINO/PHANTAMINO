@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [in VS 2022](in VS 2022)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm PHANTAMINO</h1>
 <h3 align="center">A passionate developer from Alaska !</h3>
-<img aligne="right" alt="me" width="400" src"https://64.media.tumblr.com/c1550a682663573c628a0e0490618984/1e09945fa30766a6-56/s1280x1920/27aadddc7e7492ff7aa8ca772fc0b635b2fb02a5.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantamino&label=Profile%20views&color=0e75b6&style=flat" alt="phantamino" /> </p>
 
@@ -10,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bach / Shell Script**
 
-- 👨‍💻 All of my projects are available at [github.com/PHANTAMINO](github.com/PHANTAMINO)
+- 👨‍💻 All of my projects are available at [github.com](github.com)
 
 - 📫 How to reach me **phantaminox@gmail.com**
 

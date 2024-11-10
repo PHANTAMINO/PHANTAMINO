@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **phantaminox@gmail.com**
 
-- 📄 Know about my experiences [in VS 2022](in VS 2022)
+- 📄 Know about my experiences in VS 2022
 
 
 <p align="left">

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Reverse Engineering C#/C++**
 
-- 🌱 I’m currently learning **Bach / Shell Script**
+- 🌱 I’m currently learning **SHELL ,Bach Script**
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
